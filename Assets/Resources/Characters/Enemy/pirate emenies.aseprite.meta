@@ -1,0 +1,1984 @@
+fileFormatVersion: 2
+guid: b97f1760a116e4926a85e446e8820f46
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: pirate emenies_Frame_0
+    originalName: 
+    pivot: {x: 0.50000006, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 139
+      width: 16
+      height: 20
+    spriteID: f18660c648ef5483a87fb12e88b8b834
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 139}
+  - name: pirate emenies_Frame_14
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 103
+      width: 16
+      height: 21
+    spriteID: eeeee22867e9c4c64afa85f5f0264908
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 103}
+  - name: pirate emenies_Frame_15
+    originalName: 
+    pivot: {x: 0.50000006, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 139
+      width: 16
+      height: 20
+    spriteID: 0a1a4714da97242b0824f9e49874660a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 104, y: 139}
+  - name: pirate emenies_Frame_16
+    originalName: 
+    pivot: {x: 0.50000006, y: -2.1052632}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 196
+      width: 16
+      height: 19
+    spriteID: 24d84325c305c486eb35757deba07286
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 196}
+  - name: pirate emenies_Frame_17
+    originalName: 
+    pivot: {x: 0.50000006, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 139
+      width: 16
+      height: 20
+    spriteID: 499422635e8b14f60a7a3aca8456d58d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: 139}
+  - name: pirate emenies_Frame_18
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 157
+      y: 103
+      width: 16
+      height: 21
+    spriteID: 5cf761a3f768c4a59a35b09b2958a3ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 157, y: 103}
+  - name: pirate emenies_Frame_20
+    originalName: 
+    pivot: {x: 0.50000006, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 152
+      y: 139
+      width: 16
+      height: 20
+    spriteID: ec60dcca38439454382b868544b9dae2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 152, y: 139}
+  - name: pirate emenies_Frame_21
+    originalName: 
+    pivot: {x: 0.4444445, y: -1.4814814}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 66
+      width: 18
+      height: 27
+    spriteID: 653d7ce947cbc47028a461d8dd4b4d18
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 136, y: 66}
+  - name: pirate emenies_Frame_22
+    originalName: 
+    pivot: {x: 0.4210527, y: -1.5384616}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 66
+      width: 19
+      height: 26
+    spriteID: a12f936beafbc4e4496489440848daa1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 66}
+  - name: pirate emenies_Frame_23
+    originalName: 
+    pivot: {x: 0.41176465, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 34
+      height: 22
+    spriteID: ba3dc9cde8945411f9046f1e1f5e09b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: pirate emenies_Frame_24
+    originalName: 
+    pivot: {x: 0.41176465, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 4
+      width: 34
+      height: 21
+    spriteID: 6578e69571df244dca1efdac6ce2976f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 4}
+  - name: pirate emenies_Frame_25
+    originalName: 
+    pivot: {x: 0.60869557, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 34
+      width: 23
+      height: 20
+    spriteID: be227f577fc9d47eda84cdc374866f93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 34}
+  - name: pirate emenies_Frame_26
+    originalName: 
+    pivot: {x: 0.50000006, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 139
+      width: 16
+      height: 20
+    spriteID: ac28fc5d3d8e540799248020cc97555d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 139}
+  - name: pirate emenies_Frame_38
+    originalName: 
+    pivot: {x: 0.4444445, y: -1.3793104}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 66
+      width: 18
+      height: 29
+    spriteID: 45e35f8b675024eb4bf1a65449e4c126
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 66}
+  - name: pirate emenies_Frame_39
+    originalName: 
+    pivot: {x: 0.3529412, y: -1.4285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 103
+      width: 17
+      height: 28
+    spriteID: 53258458201724527a8ba4cc27d5f3d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 103}
+  - name: pirate emenies_Frame_40
+    originalName: 
+    pivot: {x: 0.25925922, y: -1.6666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 34
+      width: 27
+      height: 24
+    spriteID: cf256d4589bb24545b2076afa60edb7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 34}
+  - name: pirate emenies_Frame_53
+    originalName: 
+    pivot: {x: 0.4444445, y: -2.222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 139
+      width: 18
+      height: 18
+    spriteID: 241ececa8b53240a9b4eba9e2dd986f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 139}
+  - name: pirate emenies_Frame_1
+    originalName: 
+    pivot: {x: 0.50000006, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 139
+      width: 16
+      height: 20
+    spriteID: bb51d60f3a2af4cd89f173dff4ed1de4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 139}
+  - name: pirate emenies_Frame_2
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 103
+      width: 16
+      height: 21
+    spriteID: d0c037d34d56c4517b3b80987fbe8162
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 181, y: 103}
+  - name: pirate emenies_Frame_3
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 205
+      y: 103
+      width: 16
+      height: 21
+    spriteID: 7333e26cb34ef4e3ca4decc3fafd29f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 205, y: 103}
+  - name: pirate emenies_Frame_4
+    originalName: 
+    pivot: {x: 0.50000006, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 139
+      width: 16
+      height: 20
+    spriteID: 26d0f05011373405c869a7e99e6ac813
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 139}
+  - name: pirate emenies_Frame_5
+    originalName: 
+    pivot: {x: 0.50000006, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 168
+      width: 16
+      height: 20
+    spriteID: c1ec87f701a4144618c7974dc7589dbf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 168}
+  - name: pirate emenies_Frame_6
+    originalName: 
+    pivot: {x: 0.50000006, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 168
+      width: 16
+      height: 20
+    spriteID: 09acbf1eb077e4075bcd00db285de702
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 168}
+  - name: pirate emenies_Frame_7
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 229
+      y: 103
+      width: 16
+      height: 21
+    spriteID: 15827787551f54b80840d01a99e861ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 229, y: 103}
+  - name: pirate emenies_Frame_8
+    originalName: 
+    pivot: {x: 0.50000006, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 168
+      width: 16
+      height: 20
+    spriteID: e67e4ad20cb374c32944efc22ced4636
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 168}
+  - name: pirate emenies_Frame_9
+    originalName: 
+    pivot: {x: 0.50000006, y: -2.1052632}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 196
+      width: 16
+      height: 19
+    spriteID: 3eb054f0bf02a4fcc88b7192fedda315
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 196}
+  - name: pirate emenies_Frame_10
+    originalName: 
+    pivot: {x: 0.50000006, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 168
+      width: 16
+      height: 20
+    spriteID: e70fcc11efd964d4cbddc19020bd7cf0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 168}
+  - name: pirate emenies_Frame_11
+    originalName: 
+    pivot: {x: 0.50000006, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 139
+      width: 16
+      height: 21
+    spriteID: 2fb9dd423bfb24d53a6463db959d9daf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 139}
+  - name: pirate emenies_Frame_12
+    originalName: 
+    pivot: {x: 0.50000006, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 168
+      width: 16
+      height: 20
+    spriteID: b85007a02b9d6449280d71b827bdb785
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 168}
+  - name: pirate emenies_Frame_13
+    originalName: 
+    pivot: {x: 0.50000006, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 168
+      width: 16
+      height: 20
+    spriteID: 66bdf9215ef0840938c563a19b230d68
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 168}
+  - name: pirate emenies_Frame_19
+    originalName: 
+    pivot: {x: 0.50000006, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 168
+      width: 16
+      height: 20
+    spriteID: 304e59c0f4d2d4c188b01203e82ba2cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 168}
+  - name: pirate emenies_Frame_27
+    originalName: 
+    pivot: {x: 0.4444445, y: -1.4814814}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 162
+      y: 66
+      width: 18
+      height: 27
+    spriteID: c74a6d7d1f43f4f3cac67cea0a9fae6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 162, y: 66}
+  - name: pirate emenies_Frame_28
+    originalName: 
+    pivot: {x: 0.4210527, y: -1.5384616}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 66
+      width: 19
+      height: 26
+    spriteID: a1a531dd1faee4f42b4b3733f2df78f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 66}
+  - name: pirate emenies_Frame_29
+    originalName: 
+    pivot: {x: 0.41176465, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 4
+      width: 34
+      height: 20
+    spriteID: c20a93ce332ed4212abaa48b5b809e26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 4}
+  - name: pirate emenies_Frame_30
+    originalName: 
+    pivot: {x: 0.41176465, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 4
+      width: 34
+      height: 20
+    spriteID: fabd9590d207d48fc8c3347a48331844
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: 4}
+  - name: pirate emenies_Frame_31
+    originalName: 
+    pivot: {x: 0.60869557, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 34
+      width: 23
+      height: 20
+    spriteID: 19a61b022c2034ffdb3b04cb604a400f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 34}
+  - name: pirate emenies_Frame_32
+    originalName: 
+    pivot: {x: 0.50000006, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 168
+      width: 16
+      height: 20
+    spriteID: cb926abd2cec14d2a96ddc31723a5fbf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 168}
+  - name: pirate emenies_Frame_33
+    originalName: 
+    pivot: {x: 0.4444445, y: -1.3793104}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 66
+      width: 18
+      height: 29
+    spriteID: 5299adbff99854b7baf20f059a6ccad8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 66}
+  - name: pirate emenies_Frame_34
+    originalName: 
+    pivot: {x: 0.38888884, y: -1.4285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 66
+      width: 18
+      height: 28
+    spriteID: 488a0faee967d40d58f3a3af7d710459
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 66}
+  - name: pirate emenies_Frame_35
+    originalName: 
+    pivot: {x: 0.25925922, y: -1.6666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 34
+      width: 27
+      height: 24
+    spriteID: 7617ef7e0e3804971b6f4d695de8a198
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 34}
+  - name: pirate emenies_Frame_36
+    originalName: 
+    pivot: {x: 0.25925922, y: -2.222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 188
+      y: 66
+      width: 27
+      height: 18
+    spriteID: 09c60d8289a6a4b25b7aa23f52ec5e78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 188, y: 66}
+  - name: pirate emenies_Frame_37
+    originalName: 
+    pivot: {x: 0.25925922, y: -2.222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 66
+      width: 27
+      height: 18
+    spriteID: 8e7bbfdfe6ed14fa2b02f4660a23edf7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 66}
+  - name: pirate emenies_Frame_41
+    originalName: 
+    pivot: {x: 0.25925922, y: -2.222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 4
+      width: 27
+      height: 18
+    spriteID: d4a61dbdda57e45aa9c3bbf912354f0c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 4}
+  - name: pirate emenies_Frame_42
+    originalName: 
+    pivot: {x: 0.25925922, y: -2.222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 207
+      y: 4
+      width: 27
+      height: 18
+    spriteID: cb17c16a4a82f45b39f68a834da3e0f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 4}
+  - name: pirate emenies_Frame_43
+    originalName: 
+    pivot: {x: 0.5555555, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 34
+      width: 18
+      height: 20
+    spriteID: 212408d4f944a463f947a713de566af0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 136, y: 34}
+  - name: pirate emenies_Frame_44
+    originalName: 
+    pivot: {x: 0.5555555, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 162
+      y: 34
+      width: 18
+      height: 20
+    spriteID: 825ede7d728284045af06a427361a001
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 162, y: 34}
+  - name: pirate emenies_Frame_45
+    originalName: 
+    pivot: {x: 0.5555555, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 188
+      y: 34
+      width: 18
+      height: 20
+    spriteID: d8a87f75bc9014d569567e52f2425eb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 188, y: 34}
+  - name: pirate emenies_Frame_46
+    originalName: 
+    pivot: {x: 0.5555555, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 34
+      width: 18
+      height: 20
+    spriteID: 481163f44c15546888b8c73fcb0bf69b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 34}
+  - name: pirate emenies_Frame_47
+    originalName: 
+    pivot: {x: 0.5555555, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29
+      y: 103
+      width: 18
+      height: 20
+    spriteID: f91a1e5ad1f56474faebd90f67bc5272
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 103}
+  - name: pirate emenies_Frame_48
+    originalName: 
+    pivot: {x: 0.5555555, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 103
+      width: 18
+      height: 20
+    spriteID: 1ad5deb43f4cb454685df81084ff8c53
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 103}
+  - name: pirate emenies_Frame_49
+    originalName: 
+    pivot: {x: 0.5555555, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 81
+      y: 103
+      width: 18
+      height: 20
+    spriteID: 4e61a92fb3c0a499993f0a33c185ce64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 81, y: 103}
+  - name: pirate emenies_Frame_50
+    originalName: 
+    pivot: {x: 0.5555555, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 103
+      width: 18
+      height: 20
+    spriteID: d4e4d2c8b254d4eb8bd448a56a51d50f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 103}
+  - name: pirate emenies_Frame_51
+    originalName: 
+    pivot: {x: 0.50000006, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 168
+      width: 16
+      height: 20
+    spriteID: 05718d7b28f50469380fd89c59fb1a34
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 168}
+  - name: pirate emenies_Frame_52
+    originalName: 
+    pivot: {x: 0.50000006, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 168
+      width: 16
+      height: 20
+    spriteID: ad01e887971784f02bf73887e2acb431
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 168}
+  - name: pirate emenies_Frame_59
+    originalName: 
+    pivot: {x: 0.50000006, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 196
+      width: 16
+      height: 20
+    spriteID: 8963580d7d4024ac594ee5e8cd8e199d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 196}
+  - name: pirate emenies_Frame_60
+    originalName: 
+    pivot: {x: 0.50000006, y: -2.222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 196
+      width: 16
+      height: 18
+    spriteID: 184d218881dcc4dcb94ae6286f64fe57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 196}
+  - name: pirate emenies_Frame_61
+    originalName: 
+    pivot: {x: 0.4444445, y: -2.222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 139
+      width: 18
+      height: 18
+    spriteID: 8785d6f813e1e4037bd3a5b2df4cc872
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 139}
+  - name: pirate emenies_Frame_54
+    originalName: 
+    pivot: {x: 0.49999994, y: -4.181818}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 237
+      y: 196
+      width: 14
+      height: 11
+    spriteID: 339f72595c1a846b28c8d13e249bc546
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 237, y: 196}
+  - name: pirate emenies_Frame_55
+    originalName: 
+    pivot: {x: 0.4444445, y: -2.9999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 224
+      width: 18
+      height: 15
+    spriteID: 0cab1040de09046d3b64bd9d12faadda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 224}
+  - name: pirate emenies_Frame_56
+    originalName: 
+    pivot: {x: 0.45000002, y: -2.9999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 196
+      width: 20
+      height: 15
+    spriteID: efc167f3c5883414abbac8e039dda8ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 196}
+  - name: pirate emenies_Frame_57
+    originalName: 
+    pivot: {x: 0.47368422, y: -2.9999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 196
+      width: 19
+      height: 15
+    spriteID: 0516247903da54a188bce1f6aed00e14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 196}
+  - name: pirate emenies_Frame_62
+    originalName: 
+    pivot: {x: 0.49999994, y: -4.181818}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 224
+      width: 14
+      height: 11
+    spriteID: 6bba4ebc2ce004981b91e9d16458998a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 224}
+  - name: pirate emenies_Frame_63
+    originalName: 
+    pivot: {x: 0.4444445, y: -2.9999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 224
+      width: 18
+      height: 15
+    spriteID: 6351e09c9688b42f1acd4b472440fbc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 224}
+  - name: pirate emenies_Frame_64
+    originalName: 
+    pivot: {x: 0.45000002, y: -2.9999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 196
+      width: 20
+      height: 15
+    spriteID: f85beb6676a1a4b3f88faaabd9896b57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 104, y: 196}
+  - name: pirate emenies_Frame_65
+    originalName: 
+    pivot: {x: 0.47368422, y: -2.9999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 183
+      y: 196
+      width: 19
+      height: 15
+    spriteID: edac5ee7e661d4830b1a6d93a59e9651
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 183, y: 196}
+  - name: pirate emenies_Frame_66
+    originalName: 
+    pivot: {x: 0.47368422, y: -2.9999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 210
+      y: 196
+      width: 19
+      height: 15
+    spriteID: 16b64b596980b4dfe84b4d724d31414b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 210, y: 196}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1292712387
+    name: pirate emenies
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: pirate emenies_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 20
+      spriteId: f18660c648ef5483a87fb12e88b8b834
+    - name: pirate emenies_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 21
+      spriteId: eeeee22867e9c4c64afa85f5f0264908
+    - name: pirate emenies_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 20
+      spriteId: 0a1a4714da97242b0824f9e49874660a
+    - name: pirate emenies_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 19
+      spriteId: 24d84325c305c486eb35757deba07286
+    - name: pirate emenies_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 20
+      spriteId: 499422635e8b14f60a7a3aca8456d58d
+    - name: pirate emenies_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 21
+      spriteId: 5cf761a3f768c4a59a35b09b2958a3ee
+    - name: pirate emenies_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 20
+      spriteId: ec60dcca38439454382b868544b9dae2
+    - name: pirate emenies_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 42
+        y: 40
+        width: 18
+        height: 27
+      spriteId: 653d7ce947cbc47028a461d8dd4b4d18
+    - name: pirate emenies_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 42
+        y: 40
+        width: 19
+        height: 26
+      spriteId: a12f936beafbc4e4496489440848daa1
+    - name: pirate emenies_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 36
+        y: 40
+        width: 34
+        height: 22
+      spriteId: ba3dc9cde8945411f9046f1e1f5e09b7
+    - name: pirate emenies_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 36
+        y: 40
+        width: 34
+        height: 21
+      spriteId: 6578e69571df244dca1efdac6ce2976f
+    - name: pirate emenies_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 36
+        y: 40
+        width: 23
+        height: 20
+      spriteId: be227f577fc9d47eda84cdc374866f93
+    - name: pirate emenies_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 20
+      spriteId: ac28fc5d3d8e540799248020cc97555d
+    - name: pirate emenies_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 42
+        y: 40
+        width: 18
+        height: 29
+      spriteId: 45e35f8b675024eb4bf1a65449e4c126
+    - name: pirate emenies_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 44
+        y: 40
+        width: 17
+        height: 28
+      spriteId: 53258458201724527a8ba4cc27d5f3d4
+    - name: pirate emenies_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 24
+      spriteId: cf256d4589bb24545b2076afa60edb7b
+    - name: pirate emenies_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 42
+        y: 40
+        width: 18
+        height: 18
+      spriteId: 241ececa8b53240a9b4eba9e2dd986f5
+    - name: pirate emenies_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 20
+      spriteId: bb51d60f3a2af4cd89f173dff4ed1de4
+    - name: pirate emenies_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 21
+      spriteId: d0c037d34d56c4517b3b80987fbe8162
+    - name: pirate emenies_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 21
+      spriteId: 7333e26cb34ef4e3ca4decc3fafd29f9
+    - name: pirate emenies_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 20
+      spriteId: 26d0f05011373405c869a7e99e6ac813
+    - name: pirate emenies_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 20
+      spriteId: c1ec87f701a4144618c7974dc7589dbf
+    - name: pirate emenies_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 20
+      spriteId: 09acbf1eb077e4075bcd00db285de702
+    - name: pirate emenies_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 21
+      spriteId: 15827787551f54b80840d01a99e861ac
+    - name: pirate emenies_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 20
+      spriteId: e67e4ad20cb374c32944efc22ced4636
+    - name: pirate emenies_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 19
+      spriteId: 3eb054f0bf02a4fcc88b7192fedda315
+    - name: pirate emenies_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 20
+      spriteId: e70fcc11efd964d4cbddc19020bd7cf0
+    - name: pirate emenies_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 21
+      spriteId: 2fb9dd423bfb24d53a6463db959d9daf
+    - name: pirate emenies_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 20
+      spriteId: b85007a02b9d6449280d71b827bdb785
+    - name: pirate emenies_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 20
+      spriteId: 66bdf9215ef0840938c563a19b230d68
+    - name: pirate emenies_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 20
+      spriteId: 304e59c0f4d2d4c188b01203e82ba2cc
+    - name: pirate emenies_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 42
+        y: 40
+        width: 18
+        height: 27
+      spriteId: c74a6d7d1f43f4f3cac67cea0a9fae6b
+    - name: pirate emenies_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 42
+        y: 40
+        width: 19
+        height: 26
+      spriteId: a1a531dd1faee4f42b4b3733f2df78f2
+    - name: pirate emenies_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 36
+        y: 40
+        width: 34
+        height: 20
+      spriteId: c20a93ce332ed4212abaa48b5b809e26
+    - name: pirate emenies_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 36
+        y: 40
+        width: 34
+        height: 20
+      spriteId: fabd9590d207d48fc8c3347a48331844
+    - name: pirate emenies_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 36
+        y: 40
+        width: 23
+        height: 20
+      spriteId: 19a61b022c2034ffdb3b04cb604a400f
+    - name: pirate emenies_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 20
+      spriteId: cb926abd2cec14d2a96ddc31723a5fbf
+    - name: pirate emenies_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 42
+        y: 40
+        width: 18
+        height: 29
+      spriteId: 5299adbff99854b7baf20f059a6ccad8
+    - name: pirate emenies_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 43
+        y: 40
+        width: 18
+        height: 28
+      spriteId: 488a0faee967d40d58f3a3af7d710459
+    - name: pirate emenies_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 24
+      spriteId: 7617ef7e0e3804971b6f4d695de8a198
+    - name: pirate emenies_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 18
+      spriteId: 09c60d8289a6a4b25b7aa23f52ec5e78
+    - name: pirate emenies_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 18
+      spriteId: 8e7bbfdfe6ed14fa2b02f4660a23edf7
+    - name: pirate emenies_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 18
+      spriteId: d4a61dbdda57e45aa9c3bbf912354f0c
+    - name: pirate emenies_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 18
+      spriteId: cb17c16a4a82f45b39f68a834da3e0f6
+    - name: pirate emenies_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 40
+        y: 40
+        width: 18
+        height: 20
+      spriteId: 212408d4f944a463f947a713de566af0
+    - name: pirate emenies_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 40
+        y: 40
+        width: 18
+        height: 20
+      spriteId: 825ede7d728284045af06a427361a001
+    - name: pirate emenies_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 40
+        y: 40
+        width: 18
+        height: 20
+      spriteId: d8a87f75bc9014d569567e52f2425eb7
+    - name: pirate emenies_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 40
+        y: 40
+        width: 18
+        height: 20
+      spriteId: 481163f44c15546888b8c73fcb0bf69b
+    - name: pirate emenies_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 40
+        y: 40
+        width: 18
+        height: 20
+      spriteId: f91a1e5ad1f56474faebd90f67bc5272
+    - name: pirate emenies_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 40
+        y: 40
+        width: 18
+        height: 20
+      spriteId: 1ad5deb43f4cb454685df81084ff8c53
+    - name: pirate emenies_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 40
+        y: 40
+        width: 18
+        height: 20
+      spriteId: 4e61a92fb3c0a499993f0a33c185ce64
+    - name: pirate emenies_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 40
+        y: 40
+        width: 18
+        height: 20
+      spriteId: d4e4d2c8b254d4eb8bd448a56a51d50f
+    - name: pirate emenies_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 20
+      spriteId: 05718d7b28f50469380fd89c59fb1a34
+    - name: pirate emenies_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 20
+      spriteId: ad01e887971784f02bf73887e2acb431
+    - name: pirate emenies_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 20
+      spriteId: 8963580d7d4024ac594ee5e8cd8e199d
+    - name: pirate emenies_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 42
+        y: 40
+        width: 16
+        height: 18
+      spriteId: 184d218881dcc4dcb94ae6286f64fe57
+    - name: pirate emenies_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 42
+        y: 40
+        width: 18
+        height: 18
+      spriteId: 8785d6f813e1e4037bd3a5b2df4cc872
+    - name: pirate emenies_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 43
+        y: 46
+        width: 14
+        height: 11
+      spriteId: 339f72595c1a846b28c8d13e249bc546
+    - name: pirate emenies_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 42
+        y: 45
+        width: 18
+        height: 15
+      spriteId: 0cab1040de09046d3b64bd9d12faadda
+    - name: pirate emenies_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 41
+        y: 45
+        width: 20
+        height: 15
+      spriteId: efc167f3c5883414abbac8e039dda8ed
+    - name: pirate emenies_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 41
+        y: 45
+        width: 19
+        height: 15
+      spriteId: 0516247903da54a188bce1f6aed00e14
+    - name: pirate emenies_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 43
+        y: 46
+        width: 14
+        height: 11
+      spriteId: 6bba4ebc2ce004981b91e9d16458998a
+    - name: pirate emenies_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 42
+        y: 45
+        width: 18
+        height: 15
+      spriteId: 6351e09c9688b42f1acd4b472440fbc7
+    - name: pirate emenies_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 41
+        y: 45
+        width: 20
+        height: 15
+      spriteId: f85beb6676a1a4b3f88faaabd9896b57
+    - name: pirate emenies_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 41
+        y: 45
+        width: 19
+        height: 15
+      spriteId: edac5ee7e661d4830b1a6d93a59e9651
+    - name: pirate emenies_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 41
+        y: 45
+        width: 19
+        height: 15
+      spriteId: 16b64b596980b4dfe84b4d724d31414b
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}

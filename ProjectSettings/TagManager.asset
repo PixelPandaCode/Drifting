@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MainLight
+  - CinemachineTarget
+  - ScreenCamera
+  - Plank
+  - MapTile
+  - GameManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Temp_Post
+  - Water
+  - UI
+  - Terminal
+  - Location
+  - LookInteractor
+  - Screen
+  - Occluder
+  - Camera
+  - MainCameraOnly
+  - 
+  - Ocean
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Cockpit
+  - Cockpit_3DSkybox
+  - Cockpit_3DSkybox_BG
+  - Cockpit_Ally
+  - Cockpit_Invader
+  - Cockpit_BG
+  - Cockpit_DepthClear
+  - Player
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Plank
+    uniqueID: 2707310533
+    locked: 0
+  - name: Player
+    uniqueID: 1849544147
+    locked: 0
+  - name: UI
+    uniqueID: 1702564481
+    locked: 0
